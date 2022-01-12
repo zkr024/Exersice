@@ -1,0 +1,12 @@
+body{
+    border: 5px ridge #ffffff;
+  }
+  body, h1{
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Syne Mono', monospace;
+    background-image: linear-gradient(315deg, #000000, #3a3b41, #172483);
+  }
+  form{
+    border: 4px double #6e6e6e; 
+  }
