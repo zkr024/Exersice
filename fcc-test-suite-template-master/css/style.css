@@ -10,3 +10,10 @@ body{
   form{
     border: 4px double #6e6e6e; 
   }
+
+.stuff {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    
+}
